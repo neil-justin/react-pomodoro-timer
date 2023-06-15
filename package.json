@@ -1,6 +1,6 @@
 {
-  "homepage": "https://neil-justin.github.io/react-ts-sass-jest-rtl-vite-stater",
-  "name": "react-ts-sass-jest-rtl-vite-stater",
+  "homepage": "https://neil-justin.github.io/react-pomodoro-timer",
+  "name": "react-pomodoro-timer",
   "private": true,
   "version": "0.0.0",
   "type": "module",
